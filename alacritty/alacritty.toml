@@ -1,0 +1,13 @@
+[font]
+size = 14.5
+
+[window]
+opacity = 0.96
+
+[window.dimensions]
+columns = 120
+lines = 40
+
+[window.padding]
+x = 5
+y = 5
