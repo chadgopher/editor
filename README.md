@@ -10,5 +10,6 @@ Minimal set of dev tools that I've configured for practicality in mind. All of w
 * Indentation guides
 * Telescope for fuzzy finding through files/commits/whatever
 * LSP and autocomplete/snippets
+* and a few other niceties
 
 Ready to quickly drop into any environment I'm working in.
