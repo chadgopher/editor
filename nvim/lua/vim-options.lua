@@ -8,3 +8,4 @@ vim.o.relativenumber = true
 vim.cmd("highlight CursorLineNr guifg=#7E9CD8")
 vim.o.cursorline = true
 --vim.o.cursorlineopt = "number"
+vim.cmd("set clipboard=unnamed,unnamedplus")
